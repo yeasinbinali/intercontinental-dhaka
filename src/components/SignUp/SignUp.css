@@ -1,0 +1,47 @@
+.sign-up-form {
+    width: 50%;
+    background-color: rgb(236, 241, 236);
+    padding: 30px;
+    margin: 20px 0;
+}
+.sign-up-form h1{
+    font-weight: bolder;
+    text-align: center;
+}
+.register-btn {
+    border: none;
+    width: 100%;
+    background-color: goldenrod;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+.register-btn:hover{
+    background-color: brown;
+    color: white;
+}
+.google-btn {
+    border: none;
+    width: 100%;
+    background-color: white;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+.google-btn:hover {
+    background-color: lightcoral;
+    color: white;
+}
+.sign-up-form p{
+    text-align: center;
+    margin: 10px 0;
+}
+/* .google-btn{
+    border: none;
+    width: 20%;
+    background-color: goldenrod;
+    padding: 5px 20px;
+    margin: 10px auto;
+}
+.google-btn:hover{
+    background-color: brown;
+    color: white;
+} */

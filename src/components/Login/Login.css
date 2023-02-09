@@ -1,0 +1,36 @@
+.login-form{
+    width: 50%;
+    background-color: rgb(236, 241, 236);
+    padding: 30px;
+    margin: 20px 0;
+}
+.login-form h1{
+    font-weight: bolder;
+    text-align: center;
+}
+.login-btn {
+    border: none;
+    width: 100%;
+    background-color: goldenrod;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+.login-btn:hover{
+    background-color: brown;
+    color: white;
+}
+.google-btn {
+    border: none;
+    width: 100%;
+    background-color: white;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+.google-btn:hover {
+    background-color: lightcoral;
+    color: white;
+}
+.login-form p{
+    text-align: center;
+    margin: 10px 0;
+}

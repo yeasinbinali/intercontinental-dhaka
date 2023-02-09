@@ -1,0 +1,13 @@
+.logo{
+    width: 200px;
+}
+Nav a{
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 26px;
+}
+.logout-btn{
+    margin-left: 40px;
+}

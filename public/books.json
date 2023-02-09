@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Standard Single Room",
+        "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288591246.jpg?k=62385f61c013081a35f18c9aecef4a0e2278a876ffed7c34b29d992ad2bc7df9&o=",
+        "perNight": 199,
+        "description": "Standard single rooms are designed in open concept living area and have many facilities"
+    },
+    {
+        "id": 2,
+        "img": "https://i.travelapi.com/hotels/1000000/920000/916300/916201/9a1c8262_z.jpg",
+        "name": "Couple Room",
+        "perNight": 499,
+        "description": "Double couple rooms are designed in open concept living area and have many facilities"
+    },
+    {
+        "id": 3,
+        "img": "https://img.traveltriangle.com/cms/attachments/pictures/1088937/original/intercontinental-vienna-4287912783-2x1.jpeg?tr=w-606,h-400",
+        "name": "Family Capacity Room",
+        "perNight": 899,
+        "description": "Family capacity rooms are designed in open concept living area and have many facilities"
+    },
+    {
+        "id": 4,
+        "img": "https://www.hotelscombined.com/himg/bb/c2/ac/leonardo-117053052-DACHB_5970040569_O-114551.jpg",
+        "name": "Hall Room",
+        "perNight": 1999,
+        "description": "Hall rooms are designed in open concept living area and have many facilities"
+    }, 
+    {
+        "id": 5,
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a7/d1/5c/intercontinental-dhaka.jpg?w=700&h=-1&s=1",
+        "name": "Babies Room",
+        "perNight": 599,
+        "description": "Baby rooms are designed in open concept living area and have many facilities"
+    }, 
+    {
+        "id": 6,
+        "img": "https://i0.wp.com/www.adventure-sense.com/wp-content/uploads/2021/01/long-beach-hotel-bangladesh.jpg",
+        "name": "Honeymoon Room",
+        "perNight": 2599,
+        "description": "Honeymoon rooms are designed in open concept living area and have many facilities"
+    }
+]
