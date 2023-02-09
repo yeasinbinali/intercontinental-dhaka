@@ -17,7 +17,7 @@ export const routes = createBrowserRouter([
             {
                 path: '/books',
                 loader: async () => {
-                    return fetch('http://localhost:5000/books')
+                    return fetch('books.json')
                 },
                 element: <Book></Book>
             },
